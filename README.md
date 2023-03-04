@@ -1,6 +1,6 @@
 # EMI-Calculator-AppAutomation-Appium
 
-## Video Output:
+
 
 
 ## Scenario
@@ -35,15 +35,15 @@
 - Start Appium server
 
 ## Allure report Screenshots:
+![emi1](https://user-images.githubusercontent.com/42008531/222921660-949f102b-0527-4476-8f59-4b86e3095351.jpg)
+![EMI2](https://user-images.githubusercontent.com/42008531/222921670-02d1a92c-e0d7-4a39-8c09-7afbbb2df217.jpg)
 
 
-
-## From IDE 
 
 
 ## Allure report Link
 
 
-## Gradle report Link
+
 
 
